@@ -1,6 +1,5 @@
 """
-The classic game of flappy bird. Make with python
-and pygame. 
+This is the classic game of flappy bird, recreated with python and pygame. A neural network is then trained to play the game.
 
 """
 import pygame
